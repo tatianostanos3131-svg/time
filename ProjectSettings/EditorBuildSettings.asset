@@ -8,5 +8,20 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/schena 1.unity
+    guid: 8435caf271f7c474596b5c68a9f17ec8
+  - enabled: 1
+    path: Assets/Scenes/schena 2.unity
+    guid: 87b7c43c8eebe4c499b920f355eaecbf
+  - enabled: 1
+    path: Assets/Scenes/schena 3.unity
+    guid: 137dcc2df92f342cc9cf993d06670ff7
+  - enabled: 1
+    path: Assets/Scenes/schena 4.unity
+    guid: d412f45501d5fd64a8fa5c94c00079e3
+  - enabled: 1
+    path: Assets/Scenes/schena 5.unity
+    guid: 58652e689a43c3d418be0465adf14262
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
